@@ -3,11 +3,6 @@
 #include <string.h>
 #include <stdbool.h>
 
-struct pekerjaan{
-    char status[30];
-    char tugas[30];
-    float gaji;
-};
     
 struct tree{
     char nama[20];
